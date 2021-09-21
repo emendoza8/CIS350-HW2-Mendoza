@@ -1,4 +1,4 @@
-##Zar Mendoza's Intriguing Introduction
+## Zar Mendoza's Intriguing Introduction
 
 ### This section will be composed of interesting facts:
 
@@ -6,7 +6,7 @@
 * I am engaged and planning a wedding for May of 2022. 
 * A member of my fantasy basketball league posted software engineering and other similar job listings from ESPN and that's what fueled my initial re-entry into higher education. 
 
-####Technical Background
-#####I have experience with Java, Python, and RDBMs. I am also concurrently enrolled in Systems Level Programming and Discrete Structures 2. I am looking forward to learning git and C. 
+#### Technical Background
+##### I have experience with Java, Python, and RDBMs. I am also concurrently enrolled in Systems Level Programming and Discrete Structures 2. I am looking forward to learning git and C. 
 
 [Pinterest] (https://www.pinterest.com/pin/530369293621068286/)
