@@ -9,4 +9,4 @@
 #### Technical Background
 ##### I have experience with Java, Python, and RDBMs. I am also concurrently enrolled in Systems Level Programming and Discrete Structures 2. I am looking forward to learning git and C. 
 
-[Pinterest] (https://www.pinterest.com/pin/530369293621068286/)
+[Pinterest](https://www.pinterest.com/pin/530369293621068286/)
