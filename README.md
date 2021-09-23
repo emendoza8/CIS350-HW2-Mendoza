@@ -7,6 +7,6 @@
 * A member of my fantasy basketball league posted software engineering and other similar job listings from ESPN and that's what fueled my initial re-entry into higher education. 
 
 #### Technical Background
-I have experience with Java, Python, and RDBMs. I am also concurrently enrolled in Systems Level Programming and Discrete Structures 2. I am looking forward to learning git and C. 
+I have experience with Java, Python, and some RDBMs. As far as program requirements, I am also enrolled in Systems Level Programming and Discrete Structures 2 this semester; So, I am looking forward to learning git and C and plan to start experimenting more with hardware in my free time. 
 
 [Costanza](https://www.pinterest.com/pin/530369293621068286/)
