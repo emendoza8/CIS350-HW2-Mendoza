@@ -9,6 +9,6 @@
 #### Technical Background
 I have experience with Java, Python, and some RDBMs. As far as program requirements, I am also enrolled in Systems Level Programming and Discrete Structures 2 this semester; So, I am looking forward to learning git and C and plan to start experimenting more with hardware in my free time. 
 
-<h5 align="center">**Links**</h5>
+<h5 align="center">** Links **</h5>
 
-[Costanza](https://www.pinterest.com/pin/530369293621068286/)
+[LinkedIn](https://www.linkedin.com/in/eleazar-mendoza-6bb582172/ [Personal Repo](https://github.com/emendoza8/CIS350-HW2-Mendoza) [Sportsmanship Repo](https://github.com/emendoza8/GVSU-CIS350-sportsmanship) [Meme fun: Costanza](https://www.pinterest.com/pin/530369293621068286/)
