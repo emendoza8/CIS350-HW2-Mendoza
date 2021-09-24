@@ -11,4 +11,4 @@ I have experience with Java, Python, and some RDBMs. As far as program requireme
 
 <h5 align="center">** Links **</h5>
 
-[LinkedIn](https://www.linkedin.com/in/eleazar-mendoza-6bb582172/ [Personal Repo](https://github.com/emendoza8/CIS350-HW2-Mendoza) [Sportsmanship Repo](https://github.com/emendoza8/GVSU-CIS350-sportsmanship) [Meme fun: Costanza](https://www.pinterest.com/pin/530369293621068286/)
+[LinkedIn](https://www.linkedin.com/in/eleazar-mendoza-6bb582172/) [Personal Repo](https://github.com/emendoza8/CIS350-HW2-Mendoza) [Sportsmanship Repo](https://github.com/emendoza8/GVSU-CIS350-sportsmanship) [Meme fun: Costanza](https://www.pinterest.com/pin/530369293621068286/)
