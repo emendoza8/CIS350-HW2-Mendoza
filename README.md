@@ -1,4 +1,4 @@
-## Zar Mendoza's Intriguing Introduction
+<h2 align="center">Zar Mendoza's Intriguing Introduction</h2> Zar Mendoza's Intriguing Introduction
 
 ### This section will be composed of interesting facts:
 
